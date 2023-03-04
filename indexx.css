@@ -1,0 +1,150 @@
+*{
+    padding: 5;
+    margin: 5;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+nav{
+    background-color: gray;
+    height: 60px;
+    width: 100%;
+}
+label.logo{
+    color: black;
+    font-size: 25px;
+    line-height: 70px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 20px; 
+}
+nav ul li{
+    display: inline-block;
+    line-height: 40px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: black;
+    font-size: 16px;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+a.active,a:hover{
+    background: grey;
+    transition: 5s;
+}
+:placeholder-shown{
+    width: 30%;
+    display: inline-block; 
+}
+
+h2{
+    
+   margin-left: 0px;
+   color:black ;
+}
+b{
+    margin-left: 100px;
+    color: aliceblue;
+}
+form{
+    padding-left: 260px;
+    margin-top: 0px;
+}
+div{
+    background-color: rgb(112, 112, 112);
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 90px;
+}
+div{
+    margin-left: 130px;
+    margin-right: 250px;
+}
+.inner{
+    background-color: rgb(65, 65, 65);
+    height: 500px;
+    width: 650px;
+    margin-left: 90px;
+    margin-top: 30px
+    
+}
+h6{
+    display: inline-block;
+    line-height: 30px;
+    margin: 0 6px;
+    padding-right: 0px;
+    color: aliceblue;
+}
+.child{
+    margin-left: 0px;
+    margin-right: 50px;
+    color:whitesmoke ;
+}
+h5{
+    padding-left: 310px;
+    display: inline-block ;
+    padding-bottom: 0px;
+    
+}
+h1{
+    display: inline-block;
+    color: aliceblue;
+    
+    
+}
+
+.last{
+    background-color:rgb(51, 51, 51);
+    width: 500px;
+    padding-left: 5px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+img{
+    padding-top: 10px;
+    height: 25px;
+    width: 120px;
+    padding-right: 60px;
+
+}
+h3{
+    color: yellow;
+}
+.flast{
+    background-color:  rgb(46, 46, 46);
+    color: aliceblue;
+    width: 953px;
+    margin-left: 130px;
+    height: 250px;
+}
+.one{
+    margin-left: 100px;
+    margin-bottom: 110px;
+    height: 80px;
+    width: 160px;
+    
+}
+.two{
+    margin-left: 100px;
+    height: 115px;
+    width: 180px;
+    margin-bottom: 100px;
+}
+.three{
+    margin-left: 100px;
+    margin-bottom: 105px;
+    height: 105px;
+    width: 200px;
+}
+.photo{
+    height: 195px;
+    width: 240px;
+    margin-left: 0px;
+    border-radius: 0% ;
+    
+    
+}
